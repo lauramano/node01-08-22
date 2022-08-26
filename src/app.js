@@ -6,6 +6,7 @@
 const {valandosToMinutes, metaiToDienos} = require('./modules/helper');
 // sum defoltinis eksportas
 const sum = require('./modules/sum');
+const data = require('./casual');
 console.log('app.js');
 
 const name = 'Mike';
@@ -16,3 +17,4 @@ console.log(fullName);
 console.log(valandosToMinutes(12));
 console.log(metaiToDienos(70));
 console.log(sum(70, 39));
+// console.log(data);

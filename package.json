@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/lauramano/node01-08-22/issues"
   },
-  "homepage": "https://github.com/lauramano/node01-08-22#readme"
+  "homepage": "https://github.com/lauramano/node01-08-22#readme",
+  "dependencies": {
+    "casual": "^1.6.2"
+  }
 }
