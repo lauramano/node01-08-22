@@ -1,0 +1,4 @@
+Username=James
+ age=25
+ Miestas=Kaunas
+ lastName=Iene
