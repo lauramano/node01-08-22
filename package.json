@@ -4,7 +4,7 @@
   "description": "first Node project",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "lite-server --baseDir=\"public\""
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "homepage": "https://github.com/lauramano/node01-08-22#readme",
   "dependencies": {
     "casual": "^1.6.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
   }
 }
